@@ -92,6 +92,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Más vale ave en la cazuela que ciento que vuela
+
+*José Luis Sánchez-Porro Godoy*
+
+-------
+
 > The #1 Programmer excuse for legitimately slacking off: "My code is COMPILING."
 
 *XKDC Comic Compiling*
